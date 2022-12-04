@@ -21,7 +21,7 @@ https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-ne
 
 #### I compared the results of this algorithm with 10, 100, 1000, and 10000 iterations. The expected output was one, and the results can be seen below, where as the the number of iterations increased, the closer to the correct output.
 
-![Results](Results.jpg)
+![Results](results.jpg)
 
 #### The final values of the weights with 10000 iterations is seen below. As expected, the value of the first weight is the highest value as the first feature has the largest impact on the output. 
 
