@@ -5,7 +5,7 @@ A simple neural network without the use of any neural network library.
 
 https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-network-in-9-lines-of-python-code-cc8f23647ca1
 
-#### This example uses a small training set of ones and zeros. 
+#### The example from this blog uses a small training set of ones and zeros (see below screenshot of data from blog post). 
 
 ![Training Set](training_set.jpg)
 
